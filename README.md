@@ -11,5 +11,5 @@ This repository track ideas and requests from the community for additional addin
 
 * Pick an addin from the [list of open requests](https://github.com/cake-contrib/addin-requests/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22).
 * Comment on the issue that you would like to pick it up.
-* The issue will get labelled as assigned.
+* The issue will get labelled as `in progress`.
 * When the addin is released close the issue or ask for it to be closed.
